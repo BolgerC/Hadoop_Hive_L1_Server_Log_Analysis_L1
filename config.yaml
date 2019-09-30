@@ -1,0 +1,4 @@
+dag_id: server_log_analysis
+input_path: HDFS\input\
+output_path: HDFS\output\
+hive_connection: test_hive_conn

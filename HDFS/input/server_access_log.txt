@@ -1,0 +1,12 @@
+194.16.4.47 - - [01/Aug/1995:00:07:33 -0400] "GET /shuttle/resources/orbiters/discovery.gif HTTP/1.0" 404 -
+155.79.94.76 - - [01/Aug/1995:00:07:35 -0400] "GET /images/ksclogosmall.gif HTTP/1.0" 200 3635
+163.205.2.100 - - [01/Aug/1995:00:07:35 -0400] "GET /images/mlp-logo.gif HTTP/1.0" 200 28426
+139.230.131.142 - - [01/Aug/1995:00:07:36 -0400] "GET /history/apollo/apollo-13/apollo-13.html HTTP/1.0" 200 18556
+193.10.98.52 - - [01/Aug/1995:00:07:40 -0400] "GET /shuttle/missions/sts-66/mission-sts-66.html HTTP/1.0" 200 174452
+194.16.4.47 - - [01/Aug/1995:00:07:44 -0400] "GET /shuttle/resources/orbiters/endeavour.html HTTP/1.0" 200 6168
+134.157.45.46 - - [01/Aug/1995:00:07:44 -0400] "GET /history/apollo/apollo-13/apollo-13-patch-small.gif HTTP/1.0" 200 12859
+139.230.35.135 - - [01/Aug/1995:00:07:44 -0400] "GET /shuttle/countdown/ HTTP/1.0" 200 4324
+198.185.178.154 - - [01/Aug/1995:00:07:44 -0400] "GET /images/ksclogo-medium.gif HTTP/1.0" 200 5866
+149.127.12.229 - - [01/Aug/1995:00:07:47 -0400] "GET /shuttle/missions/sts-68/news/sts-68-mcc-16.txt HTTP/1.0" 200 1365
+155.79.94.76 - - [01/Aug/1995:00:07:53 -0400] "GET /history/apollo/images/footprint-logo.gif HTTP/1.0" 200 4209
+134.157.45.46 - - [01/Aug/1995:00:07:55 -0400] "GET /images/ksclogosmall.gif HTTP/1.0" 200 3635

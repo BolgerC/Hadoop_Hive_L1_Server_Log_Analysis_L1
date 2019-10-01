@@ -1,1 +1,1 @@
-LOAD DATA INPATH 
+LOAD DATA INPATH "${input_path}/server_access_log" OVERWRITE INTO TABLE server_log;
